@@ -6,20 +6,5 @@
 ```sh
 gleam add the_stars
 ```
-```gleam
-import the_stars
 
-pub fn main() {
-  // TODO: An example of the project in use
-}
-```
 
-Further documentation can be found at <https://hexdocs.pm/the_stars>.
-
-## Development
-
-```sh
-gleam run   # Run the project
-gleam test  # Run the tests
-gleam shell # Run an Erlang shell
-```
